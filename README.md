@@ -9,7 +9,7 @@ Welcome to this debugging assignment! In this task, you'll be working with a Nod
 - Start by cloning the repository to your local machine. Use the following command:
     
     ```bash
-    git clonhttps://github.com/jordanburger22/book-server-debug.git
+    git clone https://github.com/jordanburger22/book-server-debug.git
     
     ```
     
